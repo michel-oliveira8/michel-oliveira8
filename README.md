@@ -1,4 +1,4 @@
-### Olá eu sou o Michel 👋
+### Olá eu sou o Michel, bem vindo(a) ao meu perfil no GitHub 👋
 
 
 - 🌎 Graduado em Geografia, mas em transição de carreira para a área de tecnologia 💻...
