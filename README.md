@@ -6,7 +6,7 @@
 - 🚀 Atualmente sou Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>...
 - 💼 Estou em busca de uma oportunidade como Desenvolvedor Junior...
 - 📚 No momento estou estudando MongoDB do módulo backend...
-
+- :envelope: Entrem em contato comigo: michelsantosoliveira@hotmail.com
 
 <div align="center">
   <a href="https://github.com/michel-oliveira8">
@@ -32,10 +32,7 @@
   ##
   
 <div> 
-  <a href="https://www.instagram.com/micheel_oliveeira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:michelsantosoliveira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michel-oliveira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/michel.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/M1chel0liveira" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
 </div>
